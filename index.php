@@ -2,6 +2,7 @@
 
 <html>
 	<head>
+		<title>Get historical prices</title>
 	</head>
 	
 	<body>
@@ -36,6 +37,7 @@
 					</td>
 				</tr>
 				<tr>
+					<td colspan=4 align="right">
 						<input type="submit" value="Get historical prices">
 					</td>
 				</tr>
